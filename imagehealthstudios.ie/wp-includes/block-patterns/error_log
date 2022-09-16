@@ -1,0 +1,16 @@
+[27-Aug-2022 13:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Aug-2022 13:22:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-Aug-2022 13:22:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-Aug-2022 13:22:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/southend/imagehealthstudios.ie/wp-includes/block-patterns/query-small-posts.php on line 9
